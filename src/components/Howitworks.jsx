@@ -57,7 +57,7 @@ A monster win for gaming.
 
 </div>
 <div className='hiw-video'>
-                          <video id="exploreVideo" className='pointer-events-none' playsInline preload='none' muted autoPlay ref={videoRef}>
+                          <video id="exploreVideo" className='pointer-events-none' playsInline preload='none' muted autoPlay loop ref={videoRef}>
     <source src={frameVideo} type="video/mp4"/>
 </video>
 </div>
