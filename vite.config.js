@@ -8,7 +8,7 @@ export default defineConfig({
     org: "samasham",
     project: "javascript-react",
   
-  })]  ,base: '/iphone-15-pro/', 
+  })]  ,base: '/Iphone-15-pro/', 
   
   build: {
     sourcemap: true
